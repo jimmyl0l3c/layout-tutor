@@ -1,3 +1,4 @@
+// This component was based on the textinput from https://github.com/charmbracelet/bubbles
 package inputfield
 
 import (
